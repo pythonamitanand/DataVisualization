@@ -1,19 +1,19 @@
-# Data Visualization Dashboard Using Python
+Data Visualization Dashboard Using Python
  - A Flask-based web application for visualizing business analytics data with detailed metrics and insights.
 
 
 
 
-# Installation
+Installation
  - First, make sure you have Flask installed: 
    
-  # pip install flask pandas 
+   pip install flask pandas 
 
 
 
-# Project Structure
+Project Structure
 
-# data-dashboard/
+data-dashboard/
 ├── app.py                 # Main Flask application
 ├── templates/            
 │   ├── index.html    # Main dashboard template
@@ -21,8 +21,8 @@
 
 
 
-# Run the Flask application: 
- - # python app.py
+Run the Flask application: 
+ - python app.py
 
 
 
